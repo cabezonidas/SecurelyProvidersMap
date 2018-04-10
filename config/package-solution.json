@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "securely-providers-map-client-side-solution",
+    "id": "7852d8a7-92d6-47a8-834e-5fd8bd68ead1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/securely-providers-map.sppkg"
+  }
+}

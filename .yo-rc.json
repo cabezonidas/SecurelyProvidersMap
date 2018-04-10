@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "securely-providers-map",
+    "libraryId": "7852d8a7-92d6-47a8-834e-5fd8bd68ead1",
+    "environment": "spo"
+  }
+}

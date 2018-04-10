@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "providers-map-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/providersMap/ProvidersMapWebPart.js",
+          "manifest": "./src/webparts/providersMap/ProvidersMapWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ProvidersMapWebPartStrings": "lib/webparts/providersMap/loc/{locale}.js"
+  }
+}
